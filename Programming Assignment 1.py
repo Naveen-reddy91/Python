@@ -1,10 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # 1. Write a Python program to print Hello Python?
-
-# In[2]:
-
 
 message = "Hello Python"
 
@@ -12,9 +6,6 @@ print(message)
 
 
 # 2. Write a Python program to do arithmetical operations addition and division.?
-
-# In[19]:
-
 
 a = 10
 b = 5
@@ -24,8 +15,6 @@ print(a/b)
 
 
 # 3. Write a Python program to find the area of a triangle?
-
-# In[8]:
 
 
 b = int(input("Enter the base: "))
@@ -59,14 +48,8 @@ import random
 
 print(random.randint(0, 10))
 
+9
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
