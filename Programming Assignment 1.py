@@ -27,7 +27,7 @@ print("Area of Triangle is:", area)
 
 # 4. Write a Python program to swap two variables?
 
-# In[9]:
+
 
 
 x = 4
@@ -41,7 +41,6 @@ print("y ", y)
 
 # 5. Write a Python program to generate a random number?
 
-# In[14]:
 
 
 import random
